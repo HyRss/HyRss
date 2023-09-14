@@ -16,7 +16,7 @@
 </div>
 
 ## Projetos em desenvolvimento:
-- 
+- Estrutura de repetição 
 -
 -
 -
